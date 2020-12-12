@@ -1,0 +1,9 @@
+#logoDiv{
+    text-align: center;
+    background-color: #ffffff;
+}
+
+#logoDiv img{
+    height: 250px;
+    width: auto;
+}

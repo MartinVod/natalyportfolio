@@ -1,0 +1,11 @@
+p{
+    padding: 20px;
+    margin-right: 40%;
+}
+
+.footer{
+    direction: rtl;
+    background-color: rgba(226, 202, 202, 0.1);
+    text-align: center !important;
+    box-shadow: -4px 0px 4px 1px rgba(255, 185, 200, 0.4);
+}

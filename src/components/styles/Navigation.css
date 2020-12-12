@@ -1,0 +1,57 @@
+.navbar{
+    background-color: #fbe8e7;
+    box-shadow: 3px 3px 4px 2px rgba(138, 138, 138, 0.4);
+}
+
+.icons{
+    direction: ltr;
+    font-size: 18px;
+}
+
+.iconLink{
+    transition: all 0.25s ease 0s;
+    padding: 3px 15px;
+    margin: 0 10px;
+}
+
+#facebook-icon:hover{
+    color: blue;
+}
+#instagram-icon:hover{
+    color: blueviolet;
+}
+#whatsapp-icon:hover{
+    color: greenyellow;
+}
+#phone-icon:hover{
+    color: green;
+}
+
+.iconLink:hover{
+    transform: scale(2.3);
+}
+
+.navItem{
+    transition: all 0.5s ease 0s;
+}
+.navItem:hover{
+    background-color: #fcf5ee;
+    transform: rotateZ(7deg);
+}
+
+Link{
+    text-decoration: inherit;
+    color: inherit;
+}
+
+/*#iconNav{
+    direction: ltr;
+    display: inline-block;
+}
+#iconNav li{
+    display: inline-flex;
+}
+#iconNav li i{
+font-size: 28px;
+margin: 0 15px;
+}*/
